@@ -5,9 +5,9 @@ I am a passionate Jr. Full-Stack Web Developer with a diverse background in busi
           finding my true calling in coding. My exploration of past roles allowed me to seamlessly blend creativity with technology, setting 
           the stage for my transition to coding through a rigorous JavaScript Full-Stack Bootcamp.<br><br>
 
-I speak 
 
-<div style="display: flex; justify-content: space-between">
+
+<div style="display: flex; gap: 20px;">
 
 ![HTML5](/images/tn_html5-bw.png)
 ![CSS](/images/tn_css-3-seeklogo.png)
