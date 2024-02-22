@@ -9,14 +9,17 @@ I am a passionate Jr. Full-Stack Web Developer with a diverse background in busi
 
 <div style="display: flex; gap: 20px;">
 
-![HTML5](/images/tn_html5-bw.png)
-![CSS](/images/tn_css-3-seeklogo.png)
-![JS](/images/tn_javascript-js-seeklogo.png)
-![REACT](/images/tn_react-seeklogo.png)
-![NODE.JS](/images/tn_node-js-seeklogo.png)
-![EXPRESS](/images/tn_express-js-seeklogo.png)
-![MONGODB](/images/tn_mongodb-seeklogo.png)
-![NPM](/images/tn_npm-node-package-manager-seeklogo.png)
+![HTML5](/images/tn_html5-bw.png)&nbsp;&nbsp;&nbsp;
+![CSS](/images/tn_css-3-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![JS](/images/tn_javascript-js-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![REACT](/images/tn_react-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![NODE.JS](/images/tn_node-js-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![EXPRESS](/images/tn_express-js-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![MONGODB](/images/tn_mongodb-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![NPM](/images/tn_npm-node-package-manager-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![PS](/images/tn_adobe-photoshop-cc-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![PR](/images/tn_adobe-premiere-cc-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![LGC](/images/tn_logic_pro_x_alt_macos_bigsur_icon_190023.png)&nbsp;&nbsp;&nbsp;
 
 </div>
 
