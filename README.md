@@ -7,7 +7,18 @@ I am a passionate Jr. Full-Stack Web Developer with a diverse background in busi
 
 I speak 
 
+<div style="display: flex; justify-content: space-between">
+
 ![HTML5](/images/tn_html5-bw.png)
+![CSS](/images/tn_css-3-seeklogo.png)
+![JS](/images/tn_javascript-js-seeklogo.png)
+![REACT](/images/tn_react-seeklogo.png)
+![NODE.JS](/images/tn_node-js-seeklogo.png)
+![EXPRESS](/images/tn_express-js-seeklogo.png)
+![MONGODB](/images/tn_mongodb-seeklogo.png)
+![NPM](/images/tn_npm-node-package-manager-seeklogo.png)
+
+</div>
 
 <!--
 **xxobenxx/xxobenxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
