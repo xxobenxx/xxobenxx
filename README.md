@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello this is Obi, 👋
+
+I am a passionate Jr. Full-Stack Web Developer with a diverse background in business and video/music production, currently living in Barcelona/Spain. <br>
+          Armed with a Bachelor of Sciences degree in physics and a MBA, I immersed myself in the world of business and video/music production before 
+          finding my true calling in coding. My exploration of past roles allowed me to seamlessly blend creativity with technology, setting 
+          the stage for my transition to coding through a rigorous JavaScript Full-Stack Bootcamp.<br><br>
+
+I speak 
+
+![HTML5](/images/tn_html5-bw.png)
 
 <!--
 **xxobenxx/xxobenxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
