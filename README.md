@@ -1,13 +1,32 @@
-### Hello this is Obi, 👋
+<div align="center">
 
-🚀 I am a passionate Jr. Full-Stack Web Developer with a diverse background in business and video/music production, currently living in Barcelona/Spain. <br>
-          Armed with a Bachelor of Sciences degree in physics and a MBA, I immersed myself in the world of business and video/music production before 
-          finding my true calling in coding. My exploration of past roles allowed me to seamlessly blend creativity with technology, setting 
-          the stage for my transition to coding through a rigorous JavaScript Full-Stack Bootcamp.<br><br>
+# Hello, I'm Obi! 👋
 
+</div>
 
+<div align="center" >
+I am a passionate Jr. Full-Stack Web Developer based in Barcelona, Spain, with a unique background in business and video/music production.
+</div>
 
-<div style="display: flex; gap: 20px;">
+<div align="center">
+
+## Background
+
+</div>
+
+<div align="center" >
+
+🚀 Armed with a Bachelor of Sciences degree in physics and an MBA, my journey began in the realms of business and video/music production. While navigating through these diverse fields, I discovered my true passion for coding. This revelation prompted me to pursue a path of creativity and technology convergence, leading me to enroll in a rigorous JavaScript Full-Stack Bootcamp.
+
+</div>
+
+<div align="center">
+
+## Technologies I Speak
+
+</div>
+
+<div align="center" style="display: flex; gap: 20;">
 
 ![HTML5](/images/tn_html5-bw.png)&nbsp;&nbsp;&nbsp;
 ![CSS](/images/tn_css-3-seeklogo.png)&nbsp;&nbsp;&nbsp;
@@ -23,7 +42,23 @@
 
 </div>
 
+
+
+<div align="center" >
+
+## Let's Connect!
+
+</div>
+
+
+<div align="center">
+&nbsp;&nbsp;&nbsp;
+
+[![Website](https://img.shields.io/badge/website-orange?style=for-the-badge)](https://www.obicod.es)
+[![Gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerken@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerken)
+
+</div>
 
 
 
