@@ -23,6 +23,11 @@
 
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerken)
+
+
+
+
 <!--
 **xxobenxx/xxobenxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
