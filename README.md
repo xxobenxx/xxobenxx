@@ -36,9 +36,10 @@ I am a passionate Jr. Full-Stack Web Developer based in Barcelona, Spain, with a
 ![EXPRESS](/images/tn_express-js-seeklogo.png)&nbsp;&nbsp;&nbsp;
 ![MONGODB](/images/tn_mongodb-seeklogo.png)&nbsp;&nbsp;&nbsp;
 ![NPM](/images/tn_npm-node-package-manager-seeklogo.png)&nbsp;&nbsp;&nbsp;
+![LGC](/images/WordPress.png)&nbsp;&nbsp;&nbsp;
 ![PS](/images/tn_adobe-photoshop-cc-seeklogo.png)&nbsp;&nbsp;&nbsp;
 ![PR](/images/tn_adobe-premiere-cc-seeklogo.png)&nbsp;&nbsp;&nbsp;
-![LGC](/images/tn_logic_pro_x_alt_macos_bigsur_icon_190023.png)&nbsp;&nbsp;&nbsp;
+
 
 </div>
 
@@ -56,7 +57,7 @@ I am a passionate Jr. Full-Stack Web Developer based in Barcelona, Spain, with a
 
 [![Website](https://img.shields.io/badge/website-orange?style=for-the-badge)](https://www.obicod.es)
 [![Gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerken@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerken)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turboturco)
 
 </div>
 
