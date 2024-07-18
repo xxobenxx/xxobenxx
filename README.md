@@ -17,6 +17,7 @@ I am a passionate Jr. Full-Stack Web Developer based in Barcelona, Spain, with a
 <div align="center" >
 
 🚀 Armed with a Bachelor of Sciences degree in physics and an MBA, my journey began in the realms of business and video/music production. While navigating through these diverse fields, I discovered my true passion for coding. This revelation prompted me to pursue a path of creativity and technology convergence, leading me to enroll in a rigorous JavaScript Full-Stack Bootcamp.
+Eager to contribute to the evolving landscape of technology, I am excited to refine my skills and make a lasting impact with the right partners.
 
 </div>
 
